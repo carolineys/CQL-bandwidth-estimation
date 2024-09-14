@@ -1,1 +1,1 @@
-This is the repo containing onnx model and training code for the 2nd BWE Challenge.
+This repo use conservative q-learning combined with microsoft bandwidth estimation dataset to do offline rl for bandwidth estimation.
